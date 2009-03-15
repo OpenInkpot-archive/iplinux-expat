@@ -1,3 +1,9 @@
+expat (2.0.1-4.ip1) asimov; urgency=low
+
+  * First IPlinux build
+
+ -- Alexander Kerner <lunohod@openinkpot.org>  Sun, 15 Mar 2009 01:25:03 +0100
+
 expat (2.0.1-4) unstable; urgency=low
 
   * debian/libexpat1-dev.install: Install the libtool .la files again and drop
